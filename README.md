@@ -1,4 +1,4 @@
-# Corona Virus Situation in Pube City, India.
+# Corona Virus Situation in Pune City, India.
 
 This repo is just a way of keeping track of the novel COVID19 cases in the City of Pune, Maharashtra, India.
 
