@@ -27,14 +27,7 @@ Total travellers quarantined in Pune: 12
 Here is a message from Pawar Public School, Hingewadi to thier stakeholders:
 ```
 Pawar Public School (Hinjewadi)
-View Message
-From :
 
-To :
-
-Subject :
-
-Content :
 Date: 11th March 2020
 In wake of the corona virus outbreak, Pawar Public School, Hinjewadi has decided to take a precautionary measure of keeping the school closed for the students from 12th March 2020 (Thursday) till 31st March 2020.  The examinations which were to be conducted on Friday, 13th March 2020 (Computer for class 9, Sanskrit and Art for classes 6 to 8, Computer and Art for class 5, Computer for classes 1 to 4) stand cancelled.  The students will be allotted average marks for the same.  
 
