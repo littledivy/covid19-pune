@@ -17,3 +17,7 @@ A couple, their and a cabby is infected. The couple had recently returned from D
 
 Many schools in Singhad road are planned to shut for 2 days.
 Authorities have warned traders to not take advantage of the situation by over pricing the masks and sanitizers.
+
+A Report from the Pune Times website:-
+
+In view of five persons testing positive for the coronavirus infection in Pune, three schools in Sinhgad Road area have decided to remain closed for the next two-three days. Nanded City School and Pawar Public School, located at Nanded city township, will remain shut till Saturday.
