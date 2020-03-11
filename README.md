@@ -1,7 +1,7 @@
 # Corona Virus Situation in Pune City, India.
 
 This repo is just a way of keeping track of the novel COVID19 cases in the City of Pune, Maharashtra, India.
-
+## Total infection toll in India : 62
 ## Sources 
 
 * The Times of India
