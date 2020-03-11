@@ -25,6 +25,7 @@ In view of five persons testing positive for the coronavirus infection in Pune, 
 Total travellers quarantined in Pune: 12
 
 Here is a message from Pawar Public School, Hingewadi to thier stakeholders:
+```
 Pawar Public School (Hinjewadi)
 View Message
 From :
@@ -51,3 +52,4 @@ The students are to report to the school directly on 1st April 2020 for the new 
 
 Regards,
 PPSH
+```
