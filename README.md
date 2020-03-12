@@ -13,7 +13,9 @@ This repo is maintained by a student who has his board exams going on ... So any
 
 ## Precaution
 The WHO website explains it better :)
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public
+
+[Click here](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
+
 ## March 11
 
 More 5 have tested positive for the virus in Pune City.
