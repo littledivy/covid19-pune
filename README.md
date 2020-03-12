@@ -10,6 +10,22 @@ This repo is just a way of keeping track of the novel COVID19 cases in the City 
 
 This repo is maintained by a student who has his board exams going on ... So any contribution would be helpful!
 
+## March 11
+
+More 5 have tested positive for the virus in Pune City.
+The Blue ridge IT park was shutdown when the daughter of the couple that had returned from Dubai had tested positive.
+A message on Whatsapp also supported the news:
+
+```
+If you know anyone working at blue ridge, Phase1, Hinjawadi please ask them to refrain from going to office this week. The above message is specifically for Accenture, Blue ridge IT-01 building, Hinjawadi, Pune
+```
+
+Mass screening has started for testing people on Singhad road as the first cases were detected there.
+
+After the can driver that had tested positive yesterday for corona, Ola and Uber have issued a precaution regarding the pick up of passengers from the airport.
+They are distributing sanitizers and masks to their drivers and ensuring safety of all the stakeholders.
+
+
 ## March 9 - 10
 
 The first 2 cases of Corona Virus emerged and after further tests, total 5 are infectes with the virus in the city.
