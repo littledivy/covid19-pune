@@ -30,7 +30,7 @@ If you know anyone working at blue ridge, Phase1, Hinjawadi please ask them to r
 
 Mass screening has started for testing people on Singhad road as the first cases were detected there.
 
-After the can driver that had tested positive yesterday for corona, Ola and Uber have issued a precaution regarding the pick up of passengers from the airport.
+After the cab driver that had tested positive yesterday for corona, Ola and Uber have issued a precaution regarding the pick up of passengers from the airport.
 They are distributing sanitizers and masks to their drivers and ensuring safety of all the stakeholders.
 
 
