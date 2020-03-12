@@ -21,7 +21,22 @@ The WHO website explains it better...
 ## March 11
 
 More 5 have tested positive for the virus in Pune City.
-The Blue ridge IT park was shutdown when the daughter of the couple that had returned from Dubai had tested positive.
+Accenture in Blue ridge IT park was evacuated when the daughter of the couple that had returned from Dubai had tested positive.
+
+The following information is provided by a reddit user who works at Accenture.
+He gives clarity on the situation and to avoid rumours:
+
+1. The Blue Ridge IT Park is in Hindjawadi Phase 2.
+2. As of March12 Blue Ridge IT Park is not closed down. Accenture is located in 3rd floor IT-01 building and it was temporary evacuated on March12 for deep cleaning. The remaining floors of the building as well as all 9 other buildings and common areas are still open... as of March12.
+3. The daughter who works at Accenture (of the couple from Dubai) has received a positive test result, however, she does not work for the Blue Ridge office. The cleaning was precautionary. 
+
+As of March 12 the following measures are in place at Blue Ridge
+
+1. All food handlers in Qubix are required masks
+2. All housekeepers and security staff are required to wear masks (not verified in all buildings!)
+3. Thermal scans of all employees entering the buildings
+4. Emergency stairwells are open to use instead of cramped elevators (not verified in all buildings!)
+5. Increased disinfecting of common surfaces like door handles, buttons, etc.
 
 Mass screening has started for testing people on Singhad road as the first cases were detected there.
 
