@@ -22,11 +22,6 @@ The WHO website explains it better...
 
 More 5 have tested positive for the virus in Pune City.
 The Blue ridge IT park was shutdown when the daughter of the couple that had returned from Dubai had tested positive.
-A message on Whatsapp also supported the news:
-
-```
-If you know anyone working at blue ridge, Phase1, Hinjawadi please ask them to refrain from going to office this week. The above message is specifically for Accenture, Blue ridge IT-01 building, Hinjawadi, Pune
-```
 
 Mass screening has started for testing people on Singhad road as the first cases were detected there.
 
