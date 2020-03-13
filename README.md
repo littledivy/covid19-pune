@@ -20,12 +20,12 @@ The WHO website explains it better...
 
 ## Symptoms
 People may experience:
-Runny nose
-Sore throat
-Cough
-Fever
-Pneumonia
-Difficulty breathing (severe cases)
+* Running nose
+* Sore throat
+* Cough
+* Fever
+* Pneumonia
+* Difficulty breathing (severe cases)
 
 ## March 12
 
