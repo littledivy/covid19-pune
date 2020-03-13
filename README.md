@@ -58,6 +58,8 @@ Mass screening has started for testing people on Singhad road as the first cases
 After the cab driver that had tested positive yesterday for corona, Ola and Uber have issued a precaution regarding the pick up of passengers from the airport.
 They are distributing sanitizers and masks to their drivers and ensuring safety of all the stakeholders.
 
+[View a news report here](https://www.google.com/amp/s/www.businessinsider.in/business/startups/news/coronavirus-pandemic-heres-what-flipkart-zomato-swiggy-ola-uber-are-doing-for-delivery-agents-and-cabbies-who-cant-work-from-home/amp_articleshow/74589898.cms)
+
 
 ## March 9 - 10
 
