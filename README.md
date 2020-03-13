@@ -28,7 +28,8 @@ Pneumonia
 Difficulty breathing (severe cases)
 
 ## March 12
-NO rise in positive cases in Pune.
+
+Three more cases of coronavirus were detected on Wednesday in Pune, with a total number of patients now standing at eight. Of the 51 people who were quarantined at Naidu hospital, following the first contact between the virus and city this week, two patients’ reports are inconclusive; the rest 48 results are awaited
 ## March 11
 
 More 5 have tested positive for the virus in Pune City.
