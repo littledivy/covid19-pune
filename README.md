@@ -30,7 +30,8 @@ People may experience:
 ## March 12
 
 Three more cases of coronavirus were detected on Wednesday in Pune, with a total number of patients now standing at eight. Of the 51 people who were quarantined at Naidu hospital, following the first contact between the virus and city this week, two patients’ reports are inconclusive; the rest 48 results are awaited
-[View report here](https://www.google.com/amp/s/punemirror.indiatimes.com/pune/civic/3-new-coronavirus-cases-with-51-in-quarantine-total-8-positive-in-pune/amp_articleshow/74582712.cms)
+
+[View full report here](https://www.google.com/amp/s/punemirror.indiatimes.com/pune/civic/3-new-coronavirus-cases-with-51-in-quarantine-total-8-positive-in-pune/amp_articleshow/74582712.cms)
 
 ## March 11
 
