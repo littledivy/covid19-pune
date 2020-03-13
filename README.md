@@ -18,6 +18,15 @@ The WHO website explains it better...
 ## Myth Busters: by WHO
 [Click here...](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)
 
+## Symptoms
+People may experience:
+Runny nose
+Sore throat
+Cough
+Fever
+Pneumonia
+Difficulty breathing (severe cases)
+
 ## March 12
 NO rise in positive cases in Pune.
 ## March 11
