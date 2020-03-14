@@ -27,6 +27,10 @@ People may experience:
 * Pneumonia
 * Difficulty breathing (severe cases)
 
+## March 13
+
+[View full report here](https://m.timesofindia.com/city/pune/covid-19-in-pune-chorus-rises-to-cancel-exams-shut-down-schools/amp_articleshow/74604613.cms)
+
 ## March 12
 
 Three more cases of coronavirus were detected on Wednesday in Pune, with a total number of patients now standing at eight. Of the 51 people who were quarantined at Naidu hospital, following the first contact between the virus and city this week, two patients’ reports are inconclusive; the rest 48 results are awaited
