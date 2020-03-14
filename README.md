@@ -31,6 +31,8 @@ People may experience:
 
 ## March 13
 
+A student from the US tests positive. Total 10 cases in Pune.
+
 Coronavirus has been declared an epidemic in Mumbai, Navi Mumbai, Nagpur, Pune and Pimpri Chinchwad.
 
 The move comes close on the heels of similar decisions being taken by the governments of Kerala, Delhi and Karnataka
