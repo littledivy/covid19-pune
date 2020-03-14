@@ -35,6 +35,8 @@ Coronavirus has been declared an epidemic in Mumbai, Navi Mumbai, Nagpur, Pune a
 
 The move comes close on the heels of similar decisions being taken by the governments of Kerala, Delhi and Karnataka
 
+[View full report here](https://www.google.com/amp/s/www.livemint.com/news/india/coronavirus-maharashtra-orders-closure-of-malls-cinema-halls-in-five-cities-until-31-march/amp-11584102050561.html)
+
 Different parents' groups, Aam Admi Party (AAP) and transport owners want schools to shut down in the wake of more people testing positive for coronavirus in the city.
 
 [View full report here](https://m.timesofindia.com/city/pune/covid-19-in-pune-chorus-rises-to-cancel-exams-shut-down-schools/amp_articleshow/74604613.cms)
