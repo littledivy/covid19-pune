@@ -30,6 +30,11 @@ People may experience:
 * Difficulty breathing (severe cases)
 
 ## March 13
+
+Coronavirus has been declared an epidemic in Mumbai, Navi Mumbai, Nagpur, Pune and Pimpri Chinchwad.
+
+The move comes close on the heels of similar decisions being taken by the governments of Kerala, Delhi and Karnataka
+
 Different parents' groups, Aam Admi Party (AAP) and transport owners want schools to shut down in the wake of more people testing positive for coronavirus in the city.
 
 [View full report here](https://m.timesofindia.com/city/pune/covid-19-in-pune-chorus-rises-to-cancel-exams-shut-down-schools/amp_articleshow/74604613.cms)
