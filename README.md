@@ -31,7 +31,7 @@ People may experience:
 
 ## March 14
 
-5 more teste positive in Pune City.
+5 more test positive in Pune City.
 
 ## March 13
 
