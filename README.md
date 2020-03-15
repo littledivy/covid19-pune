@@ -33,6 +33,8 @@ People may experience:
 
 5 more test positive in Pune City.
 
+[View full report here](https://www.google.com/amp/s/m.timesofindia.com/india/five-more-coronavirus-patients-in-pune-area-maharashtra-count-31/amp_articleshow/74632315.cms)
+
 ## March 13
 
 A student from the US tests positive. Total 10 cases in Pune.
