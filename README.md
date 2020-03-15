@@ -35,6 +35,8 @@ People may experience:
 
 Four of them had come in contact with a group which had returned from Dubai. Some members of this group have already tested positive.
 
+It took the number of confirmed cases to 15 in the city.
+
 [View full report here](https://www.google.com/amp/s/m.timesofindia.com/india/five-more-coronavirus-patients-in-pune-area-maharashtra-count-31/amp_articleshow/74632315.cms)
 
 ## March 13
