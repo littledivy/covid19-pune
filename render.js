@@ -108,7 +108,7 @@ var temp = `<br>
     <h1 class="text-normal lh-condensed">DATE</h1>
     <p class="h4 text-gray text-normal mb-2">DAY</p>
   </div>
-   DESCRIPTION
+   <div class=container-md>DESCRIPTION</div>
 </div>`
 
 for(var i=0;i<window.data.length;i++) {
