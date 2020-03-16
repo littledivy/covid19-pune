@@ -34,6 +34,8 @@ People may experience:
 
 ## March 15
 
+*SECTION 144 IMPOSED!*
+
 2 more cases spotted in Pune.
 Total count rises to 17 in the city.
 
