@@ -11,7 +11,7 @@ window.data = [
 var mainDiv = $("#main-div");
 
 for(var i=0;i<window.data.length;i++) {
-  var outHtml = temp.replace("DAY", window.data[i].day)
+  var outHtml = temp.replace("DAY", window.data[i].day).replace("DATE", window.data[i].date)
   mainDiv.append(outHtml)
 }
 
