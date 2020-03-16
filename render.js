@@ -29,7 +29,34 @@ window.data = [
 {
   "date": "March 11",
   "day": "Wednesday",
-  "desc":""
+  "desc":`<p>More 5 have tested positive for the virus in Pune City.
+Accenture in Blue ridge IT park was evacuated when the daughter of the couple that had returned from Dubai had tested positive.</p>
+
+<p>The following information is provided by a reddit user who works at Accenture.
+He gives clarity on the situation and to avoid rumours:</p>
+
+<ol>
+  <li>The Blue Ridge IT Park is in Hindjawadi Phase 2.</li>
+  <li>As of March12 Blue Ridge IT Park is not closed down. Accenture is located in 3rd floor IT-01 building and it was temporary evacuated on March12 for deep cleaning. The remaining floors of the building as well as all 9 other buildings and common areas are still open… as of March12.</li>
+  <li>The daughter who works at Accenture (of the couple from Dubai) has received a positive test result, however, she does not work for the Blue Ridge office. The cleaning was precautionary.</li>
+</ol>
+
+<p>As of March 12 the following measures are in place at Blue Ridge</p>
+
+<ol>
+  <li>All food handlers in Qubix are required masks</li>
+  <li>All housekeepers and security staff are required to wear masks (not verified in all buildings!)</li>
+  <li>Thermal scans of all employees entering the buildings</li>
+  <li>Emergency stairwells are open to use instead of cramped elevators (not verified in all buildings!)</li>
+  <li>Increased disinfecting of common surfaces like door handles, buttons, etc.</li>
+</ol>
+
+<p>Mass screening has started for testing people on Singhad road as the first cases were detected there.</p>
+
+<p>After the cab driver that had tested positive yesterday for corona, Ola and Uber have issued a precaution regarding the pick up of passengers from the airport.
+They are distributing sanitizers and masks to their drivers and ensuring safety of all the stakeholders.</p>
+
+<p><a href="https://www.google.com/amp/s/www.businessinsider.in/business/startups/news/coronavirus-pandemic-heres-what-flipkart-zomato-swiggy-ola-uber-are-doing-for-delivery-agents-and-cabbies-who-cant-work-from-home/amp_articleshow/74589898.cms">View a news report here</a></p>`
 },
 {
   "date": "March 9-10",
