@@ -10,11 +10,6 @@ window.data = [
 
 var mainDiv = $("#main-div");
 
-for(var i=0;i<window.data.length;i++) {
-  var outHtml = temp.replace("DAY", window.data[i].day).replace("DATE", window.data[i].date)
-  mainDiv.append(outHtml)
-}
-
 var temp = `<br>
 <div class="d-flex flex-column flex-md-row flex-items-center flex-md-items-center">
   <div class="col-12 col-md-10 d-flex flex-column flex-justify-center flex-items-center flex-md-items-start pl-md-4">
@@ -22,3 +17,8 @@ var temp = `<br>
     <p class="h4 text-gray text-normal mb-2">DAY</p>
   </div>
 </div>`
+
+for(var i=0;i<window.data.length;i++) {
+  var outHtml = temp.replace("DAY", window.data[i].day).replace("DATE", window.data[i].date)
+  mainDiv.append(outHtml)
+}
