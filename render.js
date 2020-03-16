@@ -2,13 +2,13 @@
 
 window.data = [
 {
-  "date": "March 9-10",
-  "day": "Monday",
+  "date": "March 11",
+  "day": "Wednesday",
   "desc":""
 },
 {
-  "date": "March 11",
-  "day": "Monday",
+  "date": "March 9-10",
+  "day": "Monday-Tuesday",
   "desc":""
 }
 ];
@@ -25,7 +25,7 @@ var temp = `<br>
 </div>`
 
 for(var i=0;i<window.data.length;i++) {
-  var outHtml = temp.replace("DAY", window.data[i].day).replace("DATE", window.data[i].date)
+  var outHtml = temp.replace("DAY", window.data[i].day).replace("DATE", window.data[i].date).replace("DESCRIPTION",window.data[i].desc)
   mainDiv.append(outHtml)
 }
 
