@@ -29,6 +29,9 @@ People may experience:
 * Pneumonia
 * Difficulty breathing (severe cases)
 
+## March 15
+
+2 more cases spotted in Pune
 ## March 14
 
 5 more test positive in Pune City.
