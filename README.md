@@ -3,7 +3,10 @@
 This repo is just a way of keeping track of the novel COVID19 cases in the City of Pune, Maharashtra, India.
 
 ## Total infection toll in India
-105
+110
+
+## Total Discharged / Recovered in india
+13
 
 ## Sources 
 
