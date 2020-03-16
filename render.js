@@ -7,7 +7,7 @@ window.data = [
   "desc":""
 },
 {
-  "date": "March 9-10",
+  "date": "March 11",
   "day": "Monday",
   "desc":""
 }
