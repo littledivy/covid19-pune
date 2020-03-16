@@ -13,7 +13,8 @@ window.data = [
 }
 ];
 
-var mainDiv = $("#main-div");
+$(document).ready(function() {
+      var mainDiv = $("#main-div");
 
 var temp = `<br>
 <div class="d-flex flex-column flex-md-row flex-items-center flex-md-items-center">
@@ -27,3 +28,5 @@ for(var i=0;i<window.data.length;i++) {
   var outHtml = temp.replace("DAY", window.data[i].day).replace("DATE", window.data[i].date)
   mainDiv.append(outHtml)
 }
+
+});
