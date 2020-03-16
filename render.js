@@ -1,6 +1,12 @@
 // render.js
 
-window.data = [3,2,1];
+window.data = [
+{
+  "date": "March 9-10",
+  "day": "Monday",
+  "desc":""
+}
+];
 
 var mainDiv = $("#main-div");
 
