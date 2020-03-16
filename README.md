@@ -31,7 +31,9 @@ People may experience:
 
 ## March 15
 
-2 more cases spotted in Pune
+2 more cases spotted in Pune.
+Total count rises to 17 in the city.
+
 ## March 14
 
 5 more test positive in Pune City.
