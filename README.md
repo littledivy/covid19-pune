@@ -34,7 +34,8 @@ People may experience:
 
 ## March 15
 
-*SECTION 144 IMPOSED!*
+Section 144 has been imposed in the Pimpri-Chinchwad area of Pune after it turned into a concentration zone for coronavirus cases in the region. As many as 16 coronavirus cases have been reported from Pune. Most of the infected have had a connection to Pimpri-Chinchwad.
+
 
 2 more cases spotted in Pune.
 Total count rises to 17 in the city.
