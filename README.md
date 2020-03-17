@@ -1,3 +1,5 @@
+<img src="https://img.icons8.com/office/50/000000/coronavirus.png"/>
+
 # Corona Virus Situation in Pune City, India.
 
 This repo is just a way of keeping track of the novel COVID19 cases in the City of Pune, Maharashtra, India.
