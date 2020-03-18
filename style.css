@@ -24,7 +24,7 @@
     .bounce-7 {
         animation-name: bounce-7;
         animation-timing-function: cubic-bezier(0.280, 0.840, 0.420, 1);
-        animation-duration: 2s;
+        animation-duration: 1.5s;
         animation-iteration-count: infinite;
     }
     @keyframes bounce-7 {

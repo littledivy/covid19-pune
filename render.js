@@ -127,7 +127,7 @@ var temp = `<br>
 </div>`
 
 for(var i=0;i<window.data.length;i++) {
-  var outHtml = temp.replace("DAY", window.data[i].day).replace("DATE", window.data[i].date).replace("DESCRIPTION",window.data[i].desc)
+  var outHtml = temp.replace("DAY", "<i><strong>"+window.data[i].day+"</strong></i>").replace("DATE", window.data[i].date).replace("DESCRIPTION",window.data[i].desc)
     mainDiv.append(outHtml)
 }
 ScrollReveal({ reset: true }).reveal('p', {delay: 4})
