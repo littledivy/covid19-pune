@@ -1,6 +1,21 @@
 // render.js
 
 window.data = [
+  {
+    "date": "March 18",
+    "day": "Wednesday",
+    "desc": `<p>Another positive case recorded in Pune city. The latest patient had a travel history to France and Netherlands.</p>
+    <p>With this, the total number of positive coronavirus cases in Maharashtra has reached 42 while Pune alone has reported 18 cases.</p>
+    <p><a href="https://www.indiatoday.in/india/story/pune-records-another-positive-coronavirus-case-maharashtra-count-goes-up-to-42-1656731-2020-03-18">View full report here</a></p>
+    The Divisional Commissioner warned of strict action against people who violate home quarantine norms.
+<p>A 64-year-old man who had tested positive for the coronavirus died in Mumbai on Tuesday, taking the total death toll in India to 3.</p>
+    `
+  },
+  {
+    "date": "March 17",
+    "day": "Tuesday",
+    "desc":`<p> No positive cases yet. </p>`
+  },
 {
   "date": "March 16",
   "day": "Monday",
