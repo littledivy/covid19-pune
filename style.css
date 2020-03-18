@@ -1,0 +1,38 @@
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+    }
+    .stage {
+        display: flex;
+        width: 100%;
+    }
+    .virus {
+        align-self: center;
+        animation-duration: 2s;
+        animation-iteration-count: infinite;
+        transform-origin: bottom;
+    }
+    .bounce-7 {
+        animation-name: bounce-7;
+        animation-timing-function: cubic-bezier(0.280, 0.840, 0.420, 1);
+        animation-duration: 2s;
+        animation-iteration-count: infinite;
+    }
+    @keyframes bounce-7 {
+        0%   { transform: scale(1,1)      translateY(0); }
+        10%  { transform: scale(1.1,.9)   translateY(0); }
+        30%  { transform: scale(.9,1.1)   translateY(-100px); }
+        50%  { transform: scale(1.05,.95) translateY(0); }
+        57%  { transform: scale(1,1)      translateY(-7px); }
+        64%  { transform: scale(1,1)      translateY(0); }
+        100% { transform: scale(1,1)      translateY(0); }
+    }

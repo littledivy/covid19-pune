@@ -4,18 +4,28 @@ window.data = [
 {
   "date": "March 16",
   "day": "Monday",
-  "desc":""
+  "desc":`
+<p>Section 144 has been imposed in the Pimpri-Chinchwad area of Pune after it turned into a concentration zone for coronavirus cases in the region. As many as 16 coronavirus cases have been reported from Pune. Most of the infected have had a connection to Pimpri-Chinchwad.</p>
+
+<p><a href="https://www.google.com/amp/s/www.indiatvnews.com/amp/news/india/pune-coronavirus-outbreak-section-144-imposed-pimpri-chinchwad-covid19-598740">View full report here</a></p>`
 },
 {
   "date": "March 15",
   "day": "Sunday",
-  "desc":""
+    "desc":`<p>2 more cases spotted in Pune.
+Total count rises to 17 in the city.</p>`
 },
 {
   "date": "March 14",
   "day": "Saturday",
-  "desc":""
-},
+  "desc":`
+<p>5 more test positive in Pune City.</p>
+
+<p>Four of them had come in contact with a group which had returned from Dubai. Some members of this group have already tested positive.</p>
+
+<p>It took the number of confirmed cases to 15 in the city.</p>
+
+<p><a href="https://www.google.com/amp/s/m.timesofindia.com/india/five-more-coronavirus-patients-in-pune-area-maharashtra-count-31/amp_articleshow/74632315.cms">View full report here</a></p>`},
 {
   "date": "March 13",
   "day": "Friday",
@@ -103,7 +113,7 @@ var temp = `<br>
 
 for(var i=0;i<window.data.length;i++) {
   var outHtml = temp.replace("DAY", window.data[i].day).replace("DATE", window.data[i].date).replace("DESCRIPTION",window.data[i].desc)
-  mainDiv.append(outHtml)
+    mainDiv.append(outHtml)
 }
-
+ScrollReveal({ reset: true }).reveal('p', {delay: 4})
 });
