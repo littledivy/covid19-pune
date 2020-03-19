@@ -11,6 +11,9 @@ This repo is just a way of keeping track of the novel COVID19 cases in the City 
 * ...and google :)
 
 This repo is maintained by a student who has his board exams going on ... So any contribution would be helpful!
+## Main page
+
+https://divy-work.github.io/covid19-pune/
 
 ## Precaution
 The WHO website explains it better...
