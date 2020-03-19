@@ -114,9 +114,14 @@ Authorities have warned traders to not take advantage of the situation by over p
 }
 ];
 
+$.ajax({
+  url: "https://coronavirus-tracker-api.herokuapp.com/v2/locations?country_code=IN&timelines=true",
+  method: "GET"
+}).done(function (data) {
+ document.getElementById("confirmed").innerHTML =data.locations[0].latest.confirmed
 $(document).ready(function() {
       var mainDiv = $("#main-div");
-
+$(".loading").fadeOut(1750);
 var temp = `<br>
 <div class="d-flex flex-column flex-md-row flex-items-center flex-md-items-center">
   <div class="col-12 col-md-10 d-flex flex-column flex-justify-center flex-items-center flex-md-items-start pl-md-4">
@@ -132,3 +137,5 @@ for(var i=0;i<window.data.length;i++) {
 }
 ScrollReveal({ reset: true }).reveal('p', {delay: 4})
 });
+
+})
