@@ -7,7 +7,7 @@ window.data = [
      "desc":`
       <p>Coronavirus: Pune companies warned of 'harsh' action for not following work from home directive</p>
       
-      <a href=https://www.google.com/amp/s/m.businesstoday.in/lite/story/coronavirus-pune-companies-warned-of-harsh-action-not-following-work-from-home/1/398622.html>View </a>
+      <a href=https://www.google.com/amp/s/m.businesstoday.in/lite/story/coronavirus-pune-companies-warned-of-harsh-action-not-following-work-from-home/1/398622.html>View full news report here.</a>
       `
   },
   {
