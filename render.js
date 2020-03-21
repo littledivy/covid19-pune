@@ -128,6 +128,7 @@ $.ajax({
   method: "GET"
 }).done(function (data) {
   document.getElementById("confirmed").innerHTML = data.locations[0].latest.confirmed;
+  console.log(data.locations[0])
   document.getElementById("deaths").innerHTML = data.locations[0].latest.deaths;
 $(document).ready(function() {
       var mainDiv = $("#main-div");
