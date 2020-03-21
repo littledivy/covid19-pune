@@ -118,7 +118,8 @@ $.ajax({
   url: "https://coronavirus-tracker-api.herokuapp.com/v2/locations?country_code=IN&timelines=true",
   method: "GET"
 }).done(function (data) {
- document.getElementById("confirmed").innerHTML =data.locations[0].latest.confirmed
+  document.getElementById("confirmed").innerHTML = data.locations[0].latest.confirmed;
+  document.getElementById("deaths").innerHTML = data.locations[0].latest.deaths;
 $(document).ready(function() {
       var mainDiv = $("#main-div");
 $(".loading").fadeOut(1750);
