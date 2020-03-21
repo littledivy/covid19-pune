@@ -2,6 +2,19 @@
 
 window.data = [
   {
+    "date": "March 20",
+    "day": "Friday",
+    "desc": `
+    <p>Pune woman with no foreign tour history tests coronavirus positive</p>
+    
+    <p>The woman, who is currently on ventilator support at Bharti Hospital, tested positive for coronavirus<p>
+
+    <p>The woman does not have travel history to a foreign country, but had travelled to Vashi in Navi Mumbai to attend a wedding</p>
+
+    <a href=https://www.livemint.com/news/india/pune-woman-with-no-foreign-tour-history-tests-coronavirus-positive-11584772244036.html>View full news report here.</a>
+    `
+  },
+  {
     "date": "March 19",
     "day": "Thursday",
      "desc":`
@@ -129,7 +142,9 @@ $.ajax({
 }).done(function (data) {
   document.getElementById("confirmed").innerHTML = data.locations[0].latest.confirmed;
   document.getElementById("deaths").innerHTML = data.locations[0].latest.deaths;
+  console.log(data.locations[0].latest)
   document.getElementById("recovered").innerHTML = data.locations[0].latest.recovered;
+
 $(document).ready(function() {
       var mainDiv = $("#main-div");
 $(".loading").fadeOut(1750);
