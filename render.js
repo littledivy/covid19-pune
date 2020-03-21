@@ -2,6 +2,15 @@
 
 window.data = [
   {
+    "date": "March 19",
+    "day": "Thursday",
+     "desc":`
+      <p>Coronavirus: Pune companies warned of 'harsh' action for not following work from home directive</p>
+      
+      <a href=https://www.google.com/amp/s/m.businesstoday.in/lite/story/coronavirus-pune-companies-warned-of-harsh-action-not-following-work-from-home/1/398622.html>View full news report here.</a>
+      `
+  },
+  {
     "date": "March 18",
     "day": "Wednesday",
     "desc": `<p>Another positive case recorded in Pune city. The latest patient had a travel history to France and Netherlands.</p>
