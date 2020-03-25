@@ -2,6 +2,32 @@
 
 window.data = [
   {
+  "date": "March 24",
+  "day": "Wednesday",
+  "desc": `<p>Prime Minister Narendra Modi adresses the nation and implements a complete lockdown in the country.</p>
+  <p>The lockdown is supposed to be for 21 days. People have been requested to be where ever they are.</p>
+  <p> Meanwhile in Pune more cases for the coronavirus emerged. One of them being from Infosys</p>
+` 
+  },
+  {
+  "date":"March 23",
+  "day": "Tuesday",
+  "desc": `<p>The Maharashtra government locksdown the State. Though, people are still being careless and coming out on the streets.</p>
+ <p> Government issues advisory notice for people to stay at home.<p>`
+  },
+  {
+    "date": "March 22",
+    "day" : "Monday",
+    "desc": `<p>The Janta Curfew is in effect all-over India from 7am to 9pm today. In this period, people have been requested to stay at home and co-operate with the Government to stop the spread of the virus.</p>`
+  },
+  {
+    "date": "March 21",
+    "day": "Saturday",
+    "desc": `
+    <p> Indians prepare for the \` Janta Curfew \` that will be on effect all-over India on March 22nd from 7:00AM to 9:00PM</p>
+    `
+  },
+  {
     "date": "March 20",
     "day": "Friday",
     "desc": `
