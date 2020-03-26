@@ -2,6 +2,12 @@
 
 window.data = [
   {
+  "date": "March 25",
+  "day": "Thursday",
+   "desc":`
+<p> Pune Couple, Maharashtra's First Coronavirus Patients, Set to be Discharged Today</p>`
+  },
+  {
   "date": "March 24",
   "day": "Wednesday",
   "desc": `<p>Prime Minister Narendra Modi adresses the nation and implements a complete lockdown in the country.</p>
