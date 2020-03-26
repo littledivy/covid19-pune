@@ -6,7 +6,10 @@ window.data = [
   "day": "Thursday",
    "desc":`
 <p> Pune Couple, Maharashtra's First Coronavirus Patients, Set to be Discharged Today</p>
-<p>The couple, admitted to a hospital here on March 9, will be taken home in an ambulance of the Pune Municipal Corporation.</p>`
+<p>The couple, admitted to a hospital here on March 9, will be taken home in an ambulance of the Pune Municipal Corporation.</p>
+
+    <a href="https://www.news18.com/amp/news/india/first-coronavirus-patients-from-maharashtra-recover-set-to-go-home-2550003.html">View full news report here.</a>
+    `
   },
   {
   "date": "March 24",
