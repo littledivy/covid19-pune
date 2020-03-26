@@ -5,7 +5,8 @@ window.data = [
   "date": "March 25",
   "day": "Thursday",
    "desc":`
-<p> Pune Couple, Maharashtra's First Coronavirus Patients, Set to be Discharged Today</p>`
+<p> Pune Couple, Maharashtra's First Coronavirus Patients, Set to be Discharged Today</p>
+<p>The couple, admitted to a hospital here on March 9, will be taken home in an ambulance of the Pune Municipal Corporation.</p>`
   },
   {
   "date": "March 24",
