@@ -2,7 +2,11 @@
 
 # Corona Virus Situation in Pune City, India.
 
-This repo is just a way of keeping track of the novel COVID19 cases in the City of Pune, Maharashtra, India.
+This repo **was** just a way of keeping track of the novel COVID19 cases in the City of Pune, Maharashtra, India.
+
+## NO LONGER MAINTAINED!
+Maintaining this repo without much of contributions was really hard! Getting true information and reliable content was also a challenge. Therefore, I've decided to archive this repository. 
+There are other better and well maintained sources where you can get updates on the situation. Stay safe. Stay home. ⊂(◉‿◉)つ
 
 ## Sources 
 
